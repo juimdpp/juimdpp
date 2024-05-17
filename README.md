@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Hyunsoo Kim!
 
 *SNU '18 Computer Science and Engineering*
-
+Click [here](https://juimdpp.github.io) to view more about myself!
 
 ## ✉ Contacts
 
